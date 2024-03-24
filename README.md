@@ -1,0 +1,1 @@
+We're developing a system to oversee the mass of a cereal container. Employing a weight sensor and a circuit, we regulate the mass within a specified range. A pump, governed by a comparator, adjusts the weight as necessary and an LED indicates the pump's status.
